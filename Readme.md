@@ -12,3 +12,9 @@ Rodando o projeto localmente:
 
 `python manage.py runserver`
 
+
+O site:
+
+![HomePage](https://github.com/GuilhermeGodoi/Django-Alura/blob/master/ReadmeContent/home.png)
+
+![Nimbus](https://github.com/GuilhermeGodoi/Django-Alura/blob/master/ReadmeContent/Nimbus.png)
